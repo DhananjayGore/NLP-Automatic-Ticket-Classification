@@ -61,3 +61,8 @@ Based on these metrics, the Logistic Regression and XGBClassifier models perform
 ## Conclusion
 
 "Automatic Ticket Classification using NLP and ML" is a valuable resource for any organization seeking to streamline their support ticket classification and resolution process. The automation of the customer support ticket system using NLP and ML techniques allows companies to efficiently identify and categorize support tickets, assign them to the relevant team for swift resolution, and continuously improve their products and services.
+
+## Contributors 
+
+- Dhananjay Gore.
+- K Geethaanjali.
